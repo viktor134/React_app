@@ -1,0 +1,19 @@
+.post {
+  width: 30%;
+  margin: 15px;
+  min-width: 240px;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  background-color: #fff;
+  margin-bottom: 20px;
+  cursor: pointer;
+  .title {
+    font-size: 16px;
+    color: #1990ff;
+    font-weight: 600;
+  }
+  .body {
+    min-height: 132px;
+  }
+}
